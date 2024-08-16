@@ -35,7 +35,7 @@ streamlit run app.py
 ### Upload a CSV file:
 
 ### Use the file uploader in the app interface to upload your CSV file.
-- Enter a prompt:
+- Enter a prompt
 
 
 ## Requirements
