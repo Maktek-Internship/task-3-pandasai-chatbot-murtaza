@@ -32,8 +32,7 @@ GOOGLE_API_KEY=your_api_key_here
 ``` bash
 streamlit run app.py
 ```
-- Upload a CSV file:
-
+- Upload a CSV file
 - Use the file uploader in the app interface to upload your CSV file.
 - Enter a prompt
 
